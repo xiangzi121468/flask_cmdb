@@ -1,0 +1,10 @@
+#pymysql
+pymysql
+#flask-sqlalchemy
+flask-sqlalchemy
+#flask-script
+flask-script
+#flask-migrate
+flask-migrate
+#Flask-WTF
+Flask-WTF
